@@ -1,0 +1,30 @@
+{
+  "id": "2924461",
+  "name": "doge",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1262237",
+      "name": "telegram",
+      "font_class": "telegram",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "4936985",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "11982059",
+      "name": "shopping",
+      "font_class": "shopping",
+      "unicode": "e999",
+      "unicode_decimal": 59801
+    }
+  ]
+}
